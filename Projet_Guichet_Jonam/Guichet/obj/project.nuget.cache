@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YyX01e+PFZGSZ1C7MG14fGouq+N9JY3UO0mrYaaEdDj//YKZJIERCsSEnPQy83F1mu2q0e5n2OAFkToDL64/Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonam\\Desktop\\Port-folio\\Projets\\guichetJonam\\ProjetGuichet-Jonam\\Guichet\\Guichet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\jonam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jonam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jonam\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

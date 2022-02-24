@@ -1,0 +1,55 @@
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\bin\Debug\netcoreapp3.1\Guichet.exe
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\bin\Debug\netcoreapp3.1\Guichet.deps.json
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\bin\Debug\netcoreapp3.1\Guichet.runtimeconfig.json
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\bin\Debug\netcoreapp3.1\Guichet.runtimeconfig.dev.json
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\bin\Debug\netcoreapp3.1\Guichet.dll
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\bin\Debug\netcoreapp3.1\Guichet.pdb
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.AssemblyInfoInputs.cache
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.AssemblyInfo.cs
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.csproj.CoreCompileInputs.cache
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.dll
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.pdb
+C:\Cerveau\_Dev_\_DevLocal_\ProjetPOO-1\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.genruntimeconfig.cache
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\bin\Debug\netcoreapp3.1\Guichet.exe
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\bin\Debug\netcoreapp3.1\Guichet.deps.json
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\bin\Debug\netcoreapp3.1\Guichet.runtimeconfig.json
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\bin\Debug\netcoreapp3.1\Guichet.runtimeconfig.dev.json
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\bin\Debug\netcoreapp3.1\Guichet.dll
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\bin\Debug\netcoreapp3.1\Guichet.pdb
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.csproj.AssemblyReference.cache
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.AssemblyInfo.cs
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.dll
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.pdb
+C:\Users\patri\OneDrive\_CSF_\_Rebon numérique_\_Formation_\_Cours_\2-ApplicationNative\G-Projet\Projet I\Guichet\Guichet\obj\Debug\netcoreapp3.1\Guichet.genruntimeconfig.cache
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\bin\Debug\netcoreapp3.1\Guichet.exe
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\bin\Debug\netcoreapp3.1\Guichet.deps.json
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\bin\Debug\netcoreapp3.1\Guichet.runtimeconfig.json
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\bin\Debug\netcoreapp3.1\Guichet.runtimeconfig.dev.json
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\bin\Debug\netcoreapp3.1\Guichet.dll
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\bin\Debug\netcoreapp3.1\Guichet.pdb
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.csproj.AssemblyReference.cache
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.AssemblyInfoInputs.cache
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.AssemblyInfo.cs
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.csproj.CoreCompileInputs.cache
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.dll
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.pdb
+C:\Users\jonam\Desktop\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.genruntimeconfig.cache
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\bin\Debug\netcoreapp3.1\Guichet.exe
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\bin\Debug\netcoreapp3.1\Guichet.deps.json
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\bin\Debug\netcoreapp3.1\Guichet.runtimeconfig.json
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\bin\Debug\netcoreapp3.1\Guichet.runtimeconfig.dev.json
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\bin\Debug\netcoreapp3.1\Guichet.dll
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\bin\Debug\netcoreapp3.1\Guichet.pdb
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.csproj.AssemblyReference.cache
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.AssemblyInfoInputs.cache
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.AssemblyInfo.cs
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.csproj.CoreCompileInputs.cache
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.dll
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.pdb
+C:\Users\jonam\Desktop\Port-folio\Projets\guichetJonam\ProjetGuichet-Jonam\Guichet\obj\Debug\netcoreapp3.1\Guichet.genruntimeconfig.cache
